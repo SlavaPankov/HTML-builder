@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "html-builder task for RSSchool",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "read-file": "node ./01-read-file/index.js",
-    "write-file": "node ./02-write-file/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "evgeniimal",
   "license": "ISC",
