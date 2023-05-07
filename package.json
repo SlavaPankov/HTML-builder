@@ -4,7 +4,8 @@
   "description": "html-builder task for RSSchool",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "read-file": "node ./01-read-file/index.js"
+    "read-file": "node ./01-read-file/index.js",
+    "write-file": "node ./02-write-file/index.js"
   },
   "author": "evgeniimal",
   "license": "ISC",
